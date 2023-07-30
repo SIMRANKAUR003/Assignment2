@@ -1,0 +1,23 @@
+﻿@page
+@model DogBreeds.Pages.DogBreedsModel
+@{
+    ViewData["Title"] = "Dog Breeds List";
+}
+
+<h1>Dog Breeds List</h1>
+
+
+<div class="row dogs">
+    @foreach (var dog in Model.DogsData)
+    {
+
+        <div class="card col-sm-6 col-md-4">
+            <div class="card-img" style="background-image: url('@dog.Image');">
+            </div>
+            <div class="card-body text-center">
+                <h4 class="card-title">@dog.Breed</h4>
+            </div>
+        </div>
+    }
+</div>
+

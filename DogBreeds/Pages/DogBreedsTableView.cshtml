@@ -1,0 +1,35 @@
+﻿@page
+@model DogBreeds.Pages.DogBreedsTableViewModel
+@{
+    ViewData["Title"] = "Dog Breeds Table View";
+}
+
+<h1>Dog Breeds Table View</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Breed</th>
+            <th scope="col">Image</th>
+            <th scope="col">Fur</th>
+            <th scope="col">Fur Color</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Life Expectancy</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dog in Model.DogsData)
+        {
+            <tr>
+                <th scope="row">@dog.Id</th>
+                <td>@dog.Breed</td>
+                <td><img class="w-100" src="@dog.Image" alt="Dog Image"></td>
+                <td>@dog.Fur</td>
+                <td>@dog.Fur_Color</td>
+                <td>@dog.Gender</td>
+                <td>@dog.Life_Expectancy</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

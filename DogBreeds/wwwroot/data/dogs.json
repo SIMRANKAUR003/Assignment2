@@ -1,0 +1,3305 @@
+[
+  {
+    "id": 1,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_714611-MEC50253081381_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 2,
+    "breed": "french poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_693633-MEC50152204932_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 4,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_627613-MEC48299727614_112021-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 5,
+    "breed": "French Minitoy",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_843219-MEC45671834670_042021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 6,
+    "breed": "Pomeranian",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_795240-MEC49623128427_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 7,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_649758-MEC49877576159_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 9,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809643-MEC49927313716_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 12,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783819-MEC49878146251_052022-O.webp",
+    "life_expectancy": 10
+  },
+  {
+    "id": 13,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_858327-MEC48552688569_122021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 18,
+    "breed": "french poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_790360-MEC49871586977_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 20,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_728557-MEC50134882517_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 22,
+    "breed": "Cocker",
+    "fur": "Corto",
+    "fur_color": "Café",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_970996-MEC49977127552_052022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 23,
+    "breed": "Shitzu",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_923672-MEC49953431511_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 26,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_926355-MEC47925448459_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 29,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_693814-MEC50158205565_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 30,
+    "breed": "Yorkies terrier",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_737480-MEC50268160886_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 31,
+    "breed": "Bichos maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913208-MEC49964383284_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 33,
+    "breed": "Pastor australiano (Mini Aussies",
+    "fur": "Largo",
+    "fur_color": "azul merle",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_848214-MEC49994826912_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 34,
+    "breed": "Pastor  Alemán",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_985702-MEC47834884305_102021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 35,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_977094-MEC50048962628_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 36,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_741748-MEC49729337431_042022-O.webp",
+    "life_expectancy": 14
+  },
+  {
+    "id": 42,
+    "breed": "Schnauzer miniatura blanco",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_632642-MEC45975242907_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 45,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "blanco y negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_835250-MEC49729368440_042022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 46,
+    "breed": "Pomeranian",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_655826-MEC50266998386_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 47,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857594-MEC50148896077_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 50,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_989537-MEC50165205257_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 51,
+    "breed": "Pomerania a",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_838867-MEC49615995900_042022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 52,
+    "breed": "Pura",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_922594-MEC50316428516_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 54,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_698819-MEC50037081385_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 56,
+    "breed": "Yorkies",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_686541-MEC50268459708_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 58,
+    "breed": "Westy white",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_994603-MEC50268519054_062022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 59,
+    "breed": "Akita Americano",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_749041-MEC50252628926_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 63,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_976492-MEC49959051258_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 65,
+    "breed": "PUG CARLINO",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_629112-MEC49878209226_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 66,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_697559-MEC50139601829_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 68,
+    "breed": "Labrador",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_919822-MEC49965661267_052022-O.webp",
+    "life_expectancy": 18
+  },
+  {
+    "id": 72,
+    "breed": "Golden Retriever",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_736677-MEC50222066956_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 73,
+    "breed": "PUG CARLINO",
+    "fur": "Corto",
+    "fur_color": "Beige albaricoque",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_928550-MEC49824201110_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 74,
+    "breed": "Pastor alemán",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_844506-MEC47924676984_102021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 75,
+    "breed": "Salchicha",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_621206-MEC49990852550_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 77,
+    "breed": "French Poodle Minitoy Chocolate",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_907107-MEC49964417068_052022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 78,
+    "breed": "Husky Siberianos",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_784205-MEC50158576093_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 83,
+    "breed": "Yorkies",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_914104-MEC50115063935_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 84,
+    "breed": "French",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_781955-MEC50187131923_062022-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 85,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Marrón claro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_762368-MEC50048739995_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 86,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_916781-MEC50188660484_062022-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 88,
+    "breed": "French poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Marrón",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_788571-MEC50073308962_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 91,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913739-MEC45444946697_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 92,
+    "breed": "Cocker machos y hembras",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958004-MEC50075494447_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 93,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Gris oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_834187-MEC50048959379_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 94,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_850819-MEC46812311134_072021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 95,
+    "breed": "Shih Tzu  Shitzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651984-MEC42199078343_062020-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 100,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_740733-MEC49569858458_042022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 101,
+    "breed": "Doberman Europeo",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_897958-MEC49845800279_052022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 106,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_757425-MEC46588186834_072021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 107,
+    "breed": "Pomerania macho y hembra",
+    "fur": "Largo",
+    "fur_color": "Arena",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646879-MEC50076037105_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 108,
+    "breed": "French",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_640323-MEC50146522577_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 109,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Marrón claro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_960316-MEC50037074014_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 110,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_888417-MEC50157062088_062022-O.webp",
+    "life_expectancy": 10
+  },
+  {
+    "id": 111,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_616049-MEC43643640384_102020-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 112,
+    "breed": "Shih Tzu  Shitzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651984-MEC42199078343_062020-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 113,
+    "breed": "Shih Tzu  Shitzu",
+    "fur": "Largo",
+    "fur_color": "Blanco Y Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_890038-MEC42199217533_062020-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 114,
+    "breed": "Shih Tzu  Shitzu",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_789507-MEC47905848518_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 116,
+    "breed": "Terrier Escocés",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958259-MEC49936369382_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 117,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Marrón",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_860992-MEC50146549141_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 119,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_743428-MEC50165023987_062022-O.webp",
+    "life_expectancy": 14
+  },
+  {
+    "id": 120,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_885999-MEC47925411728_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 121,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_983322-MEC50135015210_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 122,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_644613-MEC43645478542_102020-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 123,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_760828-MEC50082703474_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 125,
+    "breed": "Cocker spaniel",
+    "fur": "Largo",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_827016-MEC48678902768_122021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 126,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Marrón oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_636900-MEC50048897803_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 127,
+    "breed": "San Bernardo",
+    "fur": "Largo",
+    "fur_color": "café con blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913469-MEC50146511399_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 130,
+    "breed": "French poodle chocolates",
+    "fur": "Corto",
+    "fur_color": "Marrón",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_879050-MEC50031453694_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 131,
+    "breed": "French poodle toy",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_630915-MEC49863048117_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 134,
+    "breed": "Boston Terrier",
+    "fur": "Corto",
+    "fur_color": "BLANCO Y NEGRO",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_893708-MEC49889507419_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 135,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_986643-MEC50048926826_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 137,
+    "breed": "Golden Retrieever",
+    "fur": "Corto",
+    "fur_color": "Marrón claro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_700996-MEC50190027093_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 140,
+    "breed": "Pomerania",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_842947-MEC50037045217_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 142,
+    "breed": "french poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_843440-MEC49871925215_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 143,
+    "breed": "Pastor australiano",
+    "fur": "Corto",
+    "fur_color": "Blu Merle",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_853042-MEC50123767640_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 146,
+    "breed": "Jack Russell Terrier",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_630270-MEC49821546644_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 147,
+    "breed": "Pastor australiano aussie",
+    "fur": "Largo",
+    "fur_color": "Azul mirlo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_703116-MEC50044931593_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 148,
+    "breed": "French poodle mini toy",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978103-MEC50169583753_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 154,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_994918-MEC49382690269_032022-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 155,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_873816-MEC49953468165_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 156,
+    "breed": "Pastor Alemán",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_764883-MEC45523925660_042021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 157,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_886607-MEC50146249772_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 158,
+    "breed": "Pastor Aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_602802-MEC45559435834_042021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 159,
+    "breed": "Hasky siberiano",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_955127-MEC45801824198_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 161,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Marrón claro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_663331-MEC50048765771_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 165,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799873-MEC47996047997_102021-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 166,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991006-MEC50157018682_062022-O.jpg",
+    "life_expectancy": 5
+  },
+  {
+    "id": 169,
+    "breed": "Cachorros lulú de Pomerania",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_990741-MEC48354176220_112021-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 173,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_708349-MEC50293543708_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 174,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_671429-MEC30982811835_062019-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 178,
+    "breed": "Salchichas",
+    "fur": "Corto",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_605688-MEC50100736212_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 180,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_947374-MEC30982038141_062019-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 182,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_634268-MEC47996179083_102021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 184,
+    "breed": "Beagles",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_704835-MEC49859143555_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 185,
+    "breed": "Cocker",
+    "fur": "Largo",
+    "fur_color": "Café",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913338-MEC50082976541_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 187,
+    "breed": "Cocker",
+    "fur": "Largo",
+    "fur_color": "blanco con café",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_747963-MEC50146238848_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 190,
+    "breed": "French Minitoy",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_625895-MEC45671930528_042021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 191,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_797536-MEC49922201520_052022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 192,
+    "breed": "Schnauzer machos y hembras",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_688961-MEC50074426280_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 195,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646963-MEC46293144527_062021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 196,
+    "breed": "Schnauzer Mini",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_895294-MEC49992009860_052022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 197,
+    "breed": "Pura",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_777668-MEC50257597267_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 198,
+    "breed": "Shnauzer minitoy",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_668175-MEC48734759935_012022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 199,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958975-MEC48456869452_122021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 201,
+    "breed": "Dálmata",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_857772-MEC50305226879_062022-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 202,
+    "breed": "Schnauzer miny",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_992195-MEC50033008160_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 204,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "blancos y tricolores",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675313-MEC50270017156_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 206,
+    "breed": "Boyero de Berna",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_834812-MEC49910332893_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 209,
+    "breed": "Cocker machos y hembras",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_644047-MEC50075841199_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 211,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_718126-MEC50331600040_062022-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 212,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646963-MEC46293144527_062021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 213,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Beige con Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_881812-MEC46259719225_062021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 217,
+    "breed": "French poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Rojizo",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801957-MEC50074062802_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 218,
+    "breed": "Cocker machos y hembras",
+    "fur": "Largo",
+    "fur_color": "dorado y blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_712595-MEC50075347623_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 221,
+    "breed": "Shnauzer Miniatura",
+    "fur": "Corto",
+    "fur_color": "Salpimienta",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_771473-MEC46588216148_072021-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 224,
+    "breed": "Pinscher Miniatura",
+    "fur": "Corto",
+    "fur_color": "café",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_932407-MEC50035306059_052022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 225,
+    "breed": "Rotwailer",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809517-MEC50321866763_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 227,
+    "breed": "Yorkies",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_974582-MEC49616197984_042022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 228,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_625174-MEC48478157548_122021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 230,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_914845-MEC47997373604_102021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 231,
+    "breed": "Golden",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_981813-MEC45523842008_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 232,
+    "breed": "Salchichas",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_836514-MEC50165508537_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 233,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_645153-MEC50082611968_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 234,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "MERLE",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_756554-MEC49521537345_032022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 235,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_819529-MEC50165508375_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 236,
+    "breed": "Pinscher Miniatura",
+    "fur": "Corto",
+    "fur_color": "café",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_932407-MEC50035306059_052022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 237,
+    "breed": "Pinscher Miniatura",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_738994-MEC50035295282_052022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 241,
+    "breed": "Alaska malamute",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_841773-MEC49779123429_042022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 242,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_816459-MEC49546240214_042022-O.jpg",
+    "life_expectancy": 22
+  },
+  {
+    "id": 244,
+    "breed": "French poodle mini toy",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_943976-MEC50031765066_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 245,
+    "breed": "French poodle machos y hembras",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_646682-MEC50074136450_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 247,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_762058-MEC50323554221_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 248,
+    "breed": "Yorkies terrier",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_619176-MEC49616191843_042022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 249,
+    "breed": "Persa",
+    "fur": "Largo",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_751457-MEC50076668932_052022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 250,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_934827-MEC50023708335_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 251,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Marrón",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_786254-MEC50241114975_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 252,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Marrón oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_701687-MEC50048874831_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 254,
+    "breed": "Dálmata",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_906653-MEC50305382554_062022-O.webp",
+    "life_expectancy": 18
+  },
+  {
+    "id": 255,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_657616-MEC48984567270_012022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 257,
+    "breed": "Yorkies terrier",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_762529-MEC49616144671_042022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 259,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_904159-MEC49638416109_042022-O.webp",
+    "life_expectancy": 18
+  },
+  {
+    "id": 260,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_631239-MEC48299458650_112021-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 261,
+    "breed": "Labrador",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809431-MEC50083013357_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 263,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "blanco o beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_853200-MEC48115985818_112021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 264,
+    "breed": "Labradore",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_669914-MEC50082256560_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 265,
+    "breed": "Bernes",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_879049-MEC49617030566_042022-O.webp",
+    "life_expectancy": 17
+  },
+  {
+    "id": 266,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_793441-MEC47925696005_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 267,
+    "breed": "Shitzu Miniatura",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_764725-MEC47967338250_102021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 269,
+    "breed": "Cachorros French poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_732450-MEC48181812704_112021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 270,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_961823-MEC45444936177_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 272,
+    "breed": "Shitzu Miniatura",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_728017-MEC47967201522_102021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 274,
+    "breed": "French poodle mini toy",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_817639-MEC45975259775_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 278,
+    "breed": "Pug carlino",
+    "fur": "Corto",
+    "fur_color": "Marrón claro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_622866-MEC50185180546_062022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 286,
+    "breed": "Cachorros Labrador Retriever chocolate",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_612734-MEC48482174201_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 287,
+    "breed": "Pastor Ovejero Aleman",
+    "fur": "Largo",
+    "fur_color": "Amarillo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604618-MEC50285054211_062022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 294,
+    "breed": "Shitzu",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_617971-MEC48110748405_112021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 297,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_880766-MEC44873438709_022021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 299,
+    "breed": "Doberman Europeo",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_810962-MEC50125311911_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 300,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_753953-MEC46536770165_062021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 302,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_851040-MEC49977532166_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 304,
+    "breed": "Hasky siberiano",
+    "fur": "Corto",
+    "fur_color": "Gris/Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_791700-MEC45846009580_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 306,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_793262-MEC46812212985_072021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 307,
+    "breed": "Bulldog",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_889229-MEC50261973314_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 310,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "café",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_733264-MEC50109411764_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 312,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801713-MEC45632417197_042021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 314,
+    "breed": "Cocker",
+    "fur": "Largo",
+    "fur_color": "dorados con blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_608239-MEC50106596668_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 315,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_650136-MEC50048238764_052022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 321,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_881494-MEC49977277687_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 323,
+    "breed": "Cachorros Yorkshire terrier minitoy tasita de te",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_610128-MEC47680886981_092021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 324,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_603318-MEC49952071508_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 326,
+    "breed": "Husky",
+    "fur": "Largo",
+    "fur_color": "manto negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_671982-MEC50082707457_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 327,
+    "breed": "Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_787366-MEC49296596105_032022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 328,
+    "breed": "Shitzu machos y hembras",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_720102-MEC50075213386_052022-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 330,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_710828-MEC50225433134_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 331,
+    "breed": "Mastín Napolitano",
+    "fur": "Corto",
+    "fur_color": "Plomo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_654797-MEC47635281408_092021-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 334,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_983945-MEC49847108972_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 336,
+    "breed": "Shitzu",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_922597-MEC49990962054_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 337,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco Y CREMA",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_614870-MEC49083111057_022022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 340,
+    "breed": "Bichón Frisé",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_986830-MEC50227174789_062022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 343,
+    "breed": "Bichón Frisé",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_699408-MEC49145859252_022022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 344,
+    "breed": "Cachorros Alaska malamute",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_807980-MEC48589568481_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 345,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "Marrón oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_954840-MEC50135169889_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 346,
+    "breed": "Bichón Maltés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_626381-MEC49835298627_052022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 349,
+    "breed": "Schnauzer",
+    "fur": "Corto",
+    "fur_color": "salpimienta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_655616-MEC48456279939_122021-O.webp",
+    "life_expectancy": 17
+  },
+  {
+    "id": 354,
+    "breed": "Cocker",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_600623-MEC49296451865_032022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 356,
+    "breed": "Boston Terrier",
+    "fur": "Corto",
+    "fur_color": "Blanco con negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_619504-MEC49868566523_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 357,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_797034-MEC50080345761_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 358,
+    "breed": "Hermosos husky siberiano chocolate",
+    "fur": "Largo",
+    "fur_color": "chocolates",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_783952-MEC48864626942_012022-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 359,
+    "breed": "Pug",
+    "fur": "Corto",
+    "fur_color": "Beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_647907-MEC48907592298_012022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 361,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_633641-MEC49871982702_052022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 363,
+    "breed": "frech poodle",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_998594-MEC44841381026_022021-O.webp",
+    "life_expectancy": 18
+  },
+  {
+    "id": 366,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "Plateado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_659831-MEC49856700588_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 367,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_725801-MEC49460133849_032022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 371,
+    "breed": "Schnauzer miniatura blanco",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_611731-MEC46095906098_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 373,
+    "breed": "Cocker Spaniel",
+    "fur": "Corto",
+    "fur_color": "Caqui",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_838945-MEC49974706126_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 374,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_923850-MEC49870348488_052022-O.webp",
+    "life_expectancy": 14
+  },
+  {
+    "id": 376,
+    "breed": "Husky",
+    "fur": "Corto",
+    "fur_color": "Rojo",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_666828-MEC50032462104_052022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 378,
+    "breed": "Cachorros Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_655205-MEC48181935072_112021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 380,
+    "breed": "Husky",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_787902-MEC50242214026_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 381,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_951919-MEC50335600860_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 383,
+    "breed": "Border Collie",
+    "fur": "Largo",
+    "fur_color": "negro con blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_671648-MEC49416304022_032022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 384,
+    "breed": "Cachorros Labrador Retriever beige",
+    "fur": "Corto",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830261-MEC47682713341_092021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 385,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_864675-MEC50114128333_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 386,
+    "breed": "Boxer",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_663828-MEC50233680417_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 387,
+    "breed": "Cocker",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_894901-MEC50241408466_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 388,
+    "breed": "Doberman",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_874106-MEC50072085401_052022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 394,
+    "breed": "golden retrivers",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_638979-MEC44778697673_022021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 397,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_865672-MEC47719759425_092021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 399,
+    "breed": "Bichón Frisé",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_810935-MEC49145781619_022022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 400,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_740484-MEC44841652159_022021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 401,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_621440-MEC50165598218_062022-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 402,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "manto negro o gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_952377-MEC48113907868_112021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 403,
+    "breed": "Schnauzer",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_605084-MEC49990612997_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 404,
+    "breed": "Salchicha",
+    "fur": "Corto",
+    "fur_color": "café",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_886569-MEC50182946387_062022-O.webp",
+    "life_expectancy": 17
+  },
+  {
+    "id": 409,
+    "breed": "Cocker Spaniel",
+    "fur": "Corto",
+    "fur_color": "blanco con café",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_942412-MEC50187322453_062022-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 410,
+    "breed": "Cachorros Schnauzer Miniatura blancos",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_849704-MEC47875707175_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 411,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_610757-MEC50282477655_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 412,
+    "breed": "French",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_747888-MEC50076786669_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 413,
+    "breed": "Hermosos akita japonés inu",
+    "fur": "Corto",
+    "fur_color": "Marrón",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_813187-MEC49476558991_032022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 414,
+    "breed": "Golden Retriver",
+    "fur": "Largo",
+    "fur_color": "Marrón claro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_776470-MEC50270339418_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 415,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_767765-MEC49869915885_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 417,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_969020-MEC50165144561_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 418,
+    "breed": "Shnauzer",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_830083-MEC48958780591_012022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 419,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_933985-MEC49794869742_042022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 423,
+    "breed": "Schnauzer Mini",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_954916-MEC50090700462_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 425,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_875646-MEC50160377625_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 432,
+    "breed": "french",
+    "fur": "Largo",
+    "fur_color": "blancos y beagel",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_886185-MEC49765180797_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 435,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_843287-MEC50336692301_062022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 438,
+    "breed": "Shar Pei",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_946583-MEC48676364207_122021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 439,
+    "breed": "Cachorros French poodle mini toy tacita de te",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_616167-MEC47876017197_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 440,
+    "breed": "Yorkshire mini",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_696118-MEC49196664553_022022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 441,
+    "breed": "Pequinés cabeza de león raza pura",
+    "fur": "Largo",
+    "fur_color": "Marrón oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_754643-MEC49685678976_042022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 442,
+    "breed": "Hermosos schnauzer miniatura chocolate",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_740663-MEC49408555551_032022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 445,
+    "breed": "Shnauzer minitoy",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_867565-MEC48026429255_102021-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 446,
+    "breed": "french",
+    "fur": "Corto",
+    "fur_color": "blanco y salpimienta",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_744204-MEC49765332090_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 451,
+    "breed": "Schnauzer miniatura",
+    "fur": "Largo",
+    "fur_color": "salpimienta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_896977-MEC49395560911_032022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 452,
+    "breed": "Pastor Alemán",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_935798-MEC49983409780_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 457,
+    "breed": "Rottwiler",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_709753-MEC48487514972_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 458,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_833620-MEC49296496778_032022-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 459,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_935643-MEC48214593165_112021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 462,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Negro, Blanco, Café, Gris",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_833504-MEC50215257305_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 464,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_849391-MEC50227576573_062022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 473,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "manto negro o gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_752048-MEC48113885526_112021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 475,
+    "breed": "Pitbull Blue",
+    "fur": "Corto",
+    "fur_color": "Azul acero",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_886824-MEC50323702563_062022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 476,
+    "breed": "Cachorros Bichón Maltés minitoy tasita de te",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_969987-MEC47875809069_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 477,
+    "breed": "american bully pocket",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_611524-MEC49902693806_052022-O.jpg",
+    "life_expectancy": 8
+  },
+  {
+    "id": 480,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_674906-MEC44731736605_012021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 482,
+    "breed": "Pitbull",
+    "fur": "Corto",
+    "fur_color": "Blue",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_920210-MEC50347294446_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 483,
+    "breed": "Shnauzer Miniatura",
+    "fur": "Corto",
+    "fur_color": "salpimienta",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809216-MEC46264382421_062021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 486,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_741034-MEC50235230349_062022-O.jpg",
+    "life_expectancy": 2
+  },
+  {
+    "id": 488,
+    "breed": "Schnauzer miniaturas",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_854342-MEC50114030953_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 489,
+    "breed": "Cocker",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_652689-MEC50332111674_062022-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 490,
+    "breed": "Shnauzer Miniatura",
+    "fur": "Corto",
+    "fur_color": "salpimenta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_691345-MEC47941466592_102021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 491,
+    "breed": "Husky Siberiano",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_607726-MEC50120473224_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 494,
+    "breed": "Golden Retriver(macho y hembra)",
+    "fur": "Largo",
+    "fur_color": "Dorado oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_676507-MEC50036971438_052022-O.jpg",
+    "life_expectancy": 1
+  },
+  {
+    "id": 495,
+    "breed": "Golden Retriver",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_808657-MEC49827488680_052022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 497,
+    "breed": "Akita Americano",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_675956-MEC49893227140_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 498,
+    "breed": "Teckel salchicha",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_903451-MEC48738232758_012022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 499,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_612062-MEC47719661718_092021-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 500,
+    "breed": "Bichón Frisé",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_990095-MEC49145647293_022022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 502,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_817231-MEC47719711411_092021-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 503,
+    "breed": "Shitzu",
+    "fur": "Largo",
+    "fur_color": "Marrón claro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_667838-MEC50122776314_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 504,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "manto negro o gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_709311-MEC48113935719_112021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 505,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991878-MEC47719599814_092021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 506,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_673153-MEC49790856406_042022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 510,
+    "breed": "Cachorros French poodle minitoy chocolate",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_678266-MEC47680878343_092021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 513,
+    "breed": "Labrador retriever chocolate",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_950596-MEC50309260743_062022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 514,
+    "breed": "Shit tzu mini",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_919634-MEC46177548057_052021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 515,
+    "breed": "Pastor Belga Malinois",
+    "fur": "Corto",
+    "fur_color": "marrón con negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_840005-MEC49851521895_052022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 516,
+    "breed": "Akita Americano",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_642840-MEC48774005083_012022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 517,
+    "breed": "Cachorros beagle puros",
+    "fur": "Corto",
+    "fur_color": "bicolores",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_887162-MEC48505331281_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 518,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "azul acero en el cuerpo y cola,",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_819271-MEC49995243868_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 519,
+    "breed": "San Bernardo",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_899340-MEC49737297416_042022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 523,
+    "breed": "Dogo Argentino",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_869502-MEC50208462794_062022-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 526,
+    "breed": "Cachorros Alaska malamute pelones",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_676580-MEC48589703274_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 529,
+    "breed": "Cachorros Yorkshire terrier tea cup minitoy",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_787344-MEC47846929380_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 531,
+    "breed": "Labrador Retriever",
+    "fur": "Corto",
+    "fur_color": "labrador crema claro y negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_990957-MEC44565110229_012021-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 532,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_801424-MEC49253402025_032022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 534,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_872098-MEC46812238726_072021-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 538,
+    "breed": "pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_844229-MEC46812313115_072021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 540,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_881101-MEC48910439698_012022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 541,
+    "breed": "pastor alemán",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_809234-MEC44471240318_012021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 543,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_949640-MEC46114725360_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 545,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_691391-MEC47997368584_102021-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 547,
+    "breed": "Pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_978374-MEC49942100926_052022-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 548,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_838537-MEC50324834629_062022-O.webp",
+    "life_expectancy": 17
+  },
+  {
+    "id": 549,
+    "breed": "Cocker Spaniel Inglés",
+    "fur": "Largo",
+    "fur_color": "blanco y cafe",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_815549-MEC45435643558_042021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 557,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco y Beige",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_854034-MEC44201964904_112020-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 559,
+    "breed": "Bull Terrier",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_603437-MEC50253893486_062022-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 560,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "Gris",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_653865-MEC50345115355_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 561,
+    "breed": "frech poodle",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_985814-MEC44841360651_022021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 562,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_604185-MEC50032371962_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 563,
+    "breed": "frech poodle",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_972120-MEC44831247970_022021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 565,
+    "breed": "french",
+    "fur": "Corto",
+    "fur_color": "blanco y beagel",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_823594-MEC49764879889_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 567,
+    "breed": "American Pitbull",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_725504-MEC50293457961_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 570,
+    "breed": "frech poodle",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_674906-MEC44731736605_012021-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 571,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731552-MEC50024268485_052022-O.webp",
+    "life_expectancy": 12
+  },
+  {
+    "id": 574,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "Dorado oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_991105-MEC49755216437_042022-O.jpg",
+    "life_expectancy": 17
+  },
+  {
+    "id": 575,
+    "breed": "frech poodle",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_877756-MEC44841358706_022021-O.jpg",
+    "life_expectancy": 18
+  },
+  {
+    "id": 577,
+    "breed": "Doberman",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731366-MEC50122715718_052022-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 579,
+    "breed": "American Bully",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_907611-MEC49737780760_042022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 580,
+    "breed": "Pomerania",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_980290-MEC48982896953_012022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 581,
+    "breed": "Schnauzer Mini",
+    "fur": "Corto",
+    "fur_color": "Salpimienta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_861870-MEC45451216973_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 582,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "BLANCO CON CAFE",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_636679-MEC48616301707_122021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 583,
+    "breed": "Hasky siberiano",
+    "fur": "Largo",
+    "fur_color": "Blanco/Plomo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_703015-MEC46096023845_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 585,
+    "breed": "Pastor Inglés",
+    "fur": "Largo",
+    "fur_color": "Negro/Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_908162-MEC50253835178_062022-O.webp",
+    "life_expectancy": 15
+  },
+  {
+    "id": 587,
+    "breed": "Hasky siberiano",
+    "fur": "Largo",
+    "fur_color": "Blanco/Plomo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_627670-MEC46095996841_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 589,
+    "breed": "Pomerania",
+    "fur": "Largo",
+    "fur_color": "Naranja",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_912338-MEC46154489236_052021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 591,
+    "breed": "French poodle mini toy",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_729106-MEC50043662074_052022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 593,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "Agua",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_699500-MEC49752712974_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 595,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913044-MEC48984604636_012022-O.webp",
+    "life_expectancy": 17
+  },
+  {
+    "id": 596,
+    "breed": "Hermosos akitas americanos padres de pedigree",
+    "fur": "Corto",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_884375-MEC49006384250_022022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 597,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_674119-MEC48059225032_102021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 598,
+    "breed": "Labrador Retriever",
+    "fur": "Corto",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_674020-MEC49582093623_042022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 601,
+    "breed": "Golden Retriever",
+    "fur": "Largo",
+    "fur_color": "Dorado",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_629896-MEC45451399246_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 603,
+    "breed": "Bichón Maltés",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_937447-MEC46377792572_062021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 604,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_987805-MEC50298005284_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 605,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_644372-MEC48690617942_122021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 608,
+    "breed": "Chihuahua",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_888388-MEC25972220405_092017-O.jpg",
+    "life_expectancy": 19
+  },
+  {
+    "id": 611,
+    "breed": "Jack Russell Terrier",
+    "fur": "Corto",
+    "fur_color": "blanco con café",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_764787-MEC42884555429_072020-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 619,
+    "breed": "Pequinés cabeza de león",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_881424-MEC48355804637_112021-O.jpg",
+    "life_expectancy": 14
+  },
+  {
+    "id": 620,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_669728-MEC47925537587_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 621,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_868381-MEC43804720679_102020-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 622,
+    "breed": "French poodle minitoy",
+    "fur": "Largo",
+    "fur_color": "Chocolate",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_811545-MEC49582057601_042022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 629,
+    "breed": "Pastor aleman",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_674929-MEC47298122799_082021-O.jpg",
+    "life_expectancy": 13
+  },
+  {
+    "id": 630,
+    "breed": "Husky Siberiano",
+    "fur": "Corto",
+    "fur_color": "negro con blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_981421-MEC47741371969_102021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 631,
+    "breed": "Cachorros Bichón Maltés tasita de te minitoy",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_731944-MEC47876279550_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 633,
+    "breed": "French",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_924637-MEC49296481508_032022-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 638,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_709965-MEC47925665161_102021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 644,
+    "breed": "Shnauzer",
+    "fur": "Corto",
+    "fur_color": "Salpimienta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_954017-MEC47299570487_082021-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 645,
+    "breed": "Cachorros Yorkshire Terrier minitoy tasita de te tea cup",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_832636-MEC48562044245_122021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 646,
+    "breed": "Pomerania",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_812604-MEC50252962428_062022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 647,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco y beige",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_921439-MEC43628092800_092020-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 648,
+    "breed": "Cachorros Yorkshire Terrier minitoy tea cup",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_768036-MEC47876343465_102021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 649,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Miel",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_794108-MEC47156127903_082021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 650,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_642477-MEC46581699645_072021-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 651,
+    "breed": "Schnauzer miniaturas",
+    "fur": "Largo",
+    "fur_color": "Negro/Fuego",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_958221-MEC49582440338_042022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 654,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Dorado oscuro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_688764-MEC46480201966_062021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 655,
+    "breed": "Schnauzer miniatura blanco",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_716010-MEC46016828221_052021-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 658,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Miel",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_780324-MEC47156297065_082021-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 659,
+    "breed": "Pomerania",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_628406-MEC50164526258_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 661,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_728620-MEC50164539155_062022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 664,
+    "breed": "Chihuahua",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_664874-MEC49875751050_052022-O.webp",
+    "life_expectancy": 20
+  },
+  {
+    "id": 665,
+    "breed": "Cachorros Yorkshire terrier minitoy tasita de te",
+    "fur": "Largo",
+    "fur_color": "Bicolor",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_651202-MEC49155554063_022022-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 667,
+    "breed": "Shnauzer Miniatura",
+    "fur": "Corto",
+    "fur_color": "blanco y salpimienta",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_712691-MEC45672083252_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 669,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Blanco y Caramelo",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_757880-MEC46033475551_052021-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 671,
+    "breed": "Pastor Aleman",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_931881-MEC45451582434_042021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 672,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "tricolor y limón",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_719144-MEC50338965381_062022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 674,
+    "breed": "Viejo pastor inglés",
+    "fur": "Largo",
+    "fur_color": "negro con blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_913314-MEC50082265919_052022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 675,
+    "breed": "Beagle",
+    "fur": "Largo",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_714417-MEC48984839413_012022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 676,
+    "breed": "Yorkshire Terrier",
+    "fur": "Largo",
+    "fur_color": "Ocre",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_827929-MEC49425282414_032022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 679,
+    "breed": "Cachorros Doberman pinscher miniatura",
+    "fur": "Corto",
+    "fur_color": "Negro/Fuego",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_753258-MEC47681515799_092021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 682,
+    "breed": "Shih Tzu  Shitzu",
+    "fur": "Largo",
+    "fur_color": "Caramelo",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_863860-MEC47905847702_102021-O.webp",
+    "life_expectancy": 16
+  },
+  {
+    "id": 685,
+    "breed": "Shnauzer Miniatura",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_810242-MEC46536745689_062021-O.jpg",
+    "life_expectancy": 12
+  },
+  {
+    "id": 686,
+    "breed": "Bulldog Inglés",
+    "fur": "Corto",
+    "fur_color": "Blanco",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_614690-MEC47681943705_092021-O.jpg",
+    "life_expectancy": 20
+  },
+  {
+    "id": 687,
+    "breed": "Bulldog Francés",
+    "fur": "Corto",
+    "fur_color": "Crema",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_664430-MEC50152375269_052022-O.jpg",
+    "life_expectancy": 10
+  },
+  {
+    "id": 688,
+    "breed": "Shih Tzu",
+    "fur": "Largo",
+    "fur_color": "Tricolor",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_611256-MEC30982066574_062019-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 689,
+    "breed": "Schnauzer",
+    "fur": "Largo",
+    "fur_color": "BLANCO NEGRO SAL Y PIMIENTA",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_910155-MEC49765916069_042022-O.jpg",
+    "life_expectancy": 16
+  },
+  {
+    "id": 690,
+    "breed": "Shnauzer",
+    "fur": "Corto",
+    "fur_color": "Negro azabache",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_755916-MEC48999002220_022022-O.webp",
+    "life_expectancy": 13
+  },
+  {
+    "id": 692,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Hembra",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_905566-MEC48910460236_012022-O.jpg",
+    "life_expectancy": 15
+  },
+  {
+    "id": 696,
+    "breed": "Beagle",
+    "fur": "Corto",
+    "fur_color": "Negro",
+    "gender": "Macho",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_679343-MEC48446616787_122021-O.jpg",
+    "life_expectancy": 13
+  }
+]
